@@ -36,7 +36,7 @@ Work through the following section on Dynamics.
 
 ### Dynamics 
 
-Slides: [Download Lecture Slides](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Slides/Modelling-ODEs-Slides-2-Dynamicss.pdf)
+Slides: [Download Lecture Slides](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Slides/Modelling-ODEs-Slides-2-Dynamics.pdf)
 
 Notes: [Download Notes](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Notes/modelling-notes-L2.pdf)
 
