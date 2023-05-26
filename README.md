@@ -30,5 +30,24 @@ Please post your question on the [Forum](https://github.com/orgs/LIDo-2022/teams
 ### Lesson Assignment
 [Assignment](https://classroom.github.com/a/jTvxy8jW) can be accessed at GitHub classroom. 
 
+## Lesson 2: Dynamics and ODEs
+
+Work through the following section on Dynamics. 
+
+### Dynamics 
+
+Slides: [Download Lecture Slides](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Slides/Modelling-ODEs-Slides-2-Dynamicss.pdf)
+
+Notes: [Download Notes](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Notes/modelling-notes-L2.pdf)
+
+Please download
+
+[The JupyterLab notebook](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Notebooks/Part-V-Lesson-2.ipynb) for this Lesson. 
+
+[A PDF of the JupyterLab notebook](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Notebooks/Part-V-Lesson-2.pdf) for reference and offline reading 
+
+### Lesson Assignment
+[Assignment](https://classroom.github.com/a/FomAs8qb) can be accessed at GitHub classroom. 
+
 
 
