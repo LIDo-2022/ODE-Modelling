@@ -30,7 +30,7 @@ Please post your question on the [Forum](https://github.com/orgs/LIDo-2022/teams
 ### Lesson Assignment
 [Assignment](https://classroom.github.com/a/jTvxy8jW) can be accessed at GitHub classroom. 
 
-## Lesson 2: Dynamics and ODEs
+## Lesson 2: Dynamics, deriving differential equations and using Python to simulate them
 
 Work through the following section on Dynamics. 
 
