@@ -36,6 +36,8 @@ Work through the following section on Dynamics.
 
 ### Dynamics 
 
+Video (14.04):[Click here for Zoom Recording](https://ucl.zoom.us/rec/share/LwxHq2ofGyhR0x1EfsqZl_X8AalzeKwQVMNMj4ccV3nzYYJGi9ya8bO6vdM7L78.YBmHkJMNL2tahGKk?startTime=1605704004000)
+
 Slides: [Download Lecture Slides](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Slides/Modelling-ODEs-Slides-2-Dynamics.pdf)
 
 Notes: [Download Notes](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Notes/modelling-notes-L2.pdf)
@@ -48,6 +50,7 @@ Please download
 
 ### Lesson Assignment
 [Assignment](https://classroom.github.com/a/FomAs8qb) can be accessed at GitHub classroom. 
+
 
 
 
