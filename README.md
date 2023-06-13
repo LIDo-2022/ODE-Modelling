@@ -51,6 +51,25 @@ Please download
 ### Lesson Assignment
 [Assignment](https://classroom.github.com/a/FomAs8qb) can be accessed at GitHub classroom. 
 
+## Lesson 3: Interconnected Systems
 
+Work through the following section. 
+
+### Interconnected Systems 
+
+Video (14.01):[Click here for Zoom Recording](https://ucl.zoom.us/rec/share/xqsdSpOKWcoXpgva1xPpg_RR8fE7jkO4l8kMj6RZlZyfhAO4nfY3zQalPjKnxDq5.Ou8NH1gS3oPW-yzZ)
+
+Slides: [Download Lecture Slides](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Slides/Modelling-ODEs-Slides-3-Systems.pdf)
+
+Notes: [Download Notes](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Notes/modelling-notes-L3.pdf)
+
+Please download
+
+[The JupyterLab notebook](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Notebooks/Part-V-Lesson-3.ipynb) for this Lesson. 
+
+[A PDF of the JupyterLab notebook](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Notebooks/Part-V-Lesson-3.pdf) for reference and offline reading 
+
+### Lesson Assignment
+[Assignment](https://classroom.github.com/a/FomAs8qb) can be accessed at GitHub classroom. 
 
 
