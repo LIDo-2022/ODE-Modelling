@@ -70,6 +70,6 @@ Please download
 [A PDF of the JupyterLab notebook](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Notebooks/Part-V-Lesson-3.pdf) for reference and offline reading 
 
 ### Lesson Assignment
-[Assignment](https://classroom.github.com/a/FomAs8qb) can be accessed at GitHub classroom. 
+[Assignment](https://classroom.github.com/a/2hHwRU39) can be accessed at GitHub classroom. 
 
 
