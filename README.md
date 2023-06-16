@@ -80,11 +80,11 @@ Work through the following sections on gene regulatory networks.
 
 Video (14:32):[Click here for Zoom Recording](https://ucl.zoom.us/rec/share/tKBgjozcw8JqGeVKO7vhWv1McdVy8BiJtTzmxDbmlmqHQwDb2wX6pft7JynbhSv4.3SezoaKAOuMkQNFv?startTime=1605731655000)
 
-Slides: [Download Lecture Slides](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Slides/Modelling-ODEs-Slides-4)
+Slides: [Download Lecture Slides](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Slides/Modelling-ODEs-Slides-4-Gene-regulation.pdf)
 
 ### Gene regulatory networks: the toggle switch and the repressilator
 
 Video (26:03):[Click here for Zoom Recording](https://ucl.zoom.us/rec/share/HtM_H9wWR7dmFBq7ztyUX8j2tmKOstjctJj_GepoGuQRJNzUQTMcTnMgbonKnaDm.Vz0whmYTB4HnZqLe?startTime=1605796953000)
 
-Slides: [Download Lecture Slides](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Slides/Modelling-ODEs-Slides-5)
+Slides: [Download Lecture Slides](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Slides/Modelling-ODEs-Slides-5-Gene-networks.pdf)
 
