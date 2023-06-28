@@ -88,3 +88,9 @@ Video (26:03):[Click here for Zoom Recording](https://ucl.zoom.us/rec/share/HtM_
 
 Slides: [Download Lecture Slides](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Slides/Modelling-ODEs-Slides-5-Gene-networks.pdf)
 
+## Lesson 4: Mini projects
+
+This week you get to choose one of five mini projects to tackle on your own. You will need to use what you have learned over the past three sessions to simulate and explore some classic dynamic biological systems.
+
+[Assignment](https://classroom.github.com/a/0Ts8g7gy) can be accessed at GitHub classroom.
+
